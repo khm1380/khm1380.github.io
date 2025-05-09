@@ -2,17 +2,23 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/khm1380"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+
+- type: solvedac
+  icon: "fas fa-code"
+  url: "https://solved.ac/profile/khm1380"
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  url: "mailto:khm1102@tukorea.ac.kr"
+  noblank: true
 
 - type: rss
   icon: "fas fa-rss"
+  url: "/feed.xml"
   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
